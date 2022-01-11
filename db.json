@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Hacer Tarea",
+      "day": "Martes 12 julio",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Hacer Tarea",
+      "day": "Martes 25 julio",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Hacer Tarea",
+      "day": "Martes 5 julio",
+      "reminder": true
+    },
+    {
+      "text": "Nueva Tarea",
+      "day": "Pasado Mañana",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Tarea Importante",
+      "day": "Lunes 10 de Marzo",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Hola",
+      "day": "Viernes",
+      "reminder": true,
+      "id": 8
+    }
+  ]
+}
